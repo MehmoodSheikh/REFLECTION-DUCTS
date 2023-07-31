@@ -20,7 +20,10 @@ This project is a website designed to showcase various features of a product or 
 `The project is implemented using HTML, CSS, and JavaScript.`
 
 ## DEMO
-(Add a link to the live demo of the website if available)
+
+<p align="center">
+  <img src="https://github.com/MehmoodSheikh/REFLECTION-DUCTS/blob/main/WEBSITE%20PREVIEW.gif" alt="WEBSITE PREVIEW ">
+</p>
 
 ## INSTALLATION
 
