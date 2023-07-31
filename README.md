@@ -58,7 +58,9 @@ E. **Contact form:** Users can submit their contact information and messages thr
 ## TECHNOLOGIES USED
 
 HTML
+
 CSS
+
 JavaScript
 
 ## CONTRIBUTING
