@@ -30,7 +30,7 @@ This project is a website designed to showcase various features of a product or 
 A. Clone the repository to your local machine using the following command:
 
   ```bash
-  git clone https://github.com/MehmoodSheikh/REFLECTION-DUCTS.git)https://github.com/MehmoodSheikh/REFLECTION-DUCTS.git
+  git clone https://github.com/MehmoodSheikh/REFLECTION-DUCTS.git
   ```
 
 B. Open the index.html file in your web browser.
@@ -50,9 +50,13 @@ D. **Contact:** Users can use the contact form to send inquiries or messages. Th
 ## FEATURES
 
 A. **Sticky navigation bar:** The navigation bar becomes fixed at the top of the page as the user scrolls down.
+
 B. **Smooth scrolling:** Clicking on buttons or links will smoothly scroll the page to specific sections.
+
 C. **Animation on scroll:** Certain elements on the page animate when they come into view while scrolling.
+
 D. **Mobile navigation:** The hamburger menu icon toggles the display of the main navigation menu on smaller screens.
+
 E. **Contact form:** Users can submit their contact information and messages through the contact form.
 
 ## TECHNOLOGIES USED
@@ -68,9 +72,13 @@ JavaScript
 If you'd like to contribute to the project, you can follow these steps:
 
 A. Fork the repository.
+
 B. Create a new branch with a descriptive name for your feature or bug fix.
+
 C. Make your changes and commit them with clear and concise messages.
+
 D. Push your changes to your forked repository.
+
 E. Create a pull request to merge your changes into the main repository.
 
 ## LICENSE
